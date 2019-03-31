@@ -1,0 +1,5 @@
+setuptools
+flake8==3.6.0
+pep8==1.7.1
+pytest==4.1.1
+ipython==7.2.0

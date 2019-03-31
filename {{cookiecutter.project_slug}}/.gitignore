@@ -1,0 +1,7 @@
+__pycache__
+.venv/
+.test_files/
+.safe_venv/
+/config.py
+*.egg-info
+*.zip

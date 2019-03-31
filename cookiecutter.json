@@ -1,0 +1,10 @@
+{
+  "full_name": "Peter Grauman",
+  "email": " 6590978+pgrauman@users.noreply.github.com",
+  "github_username": "pgrauman",
+  "project_name": "Flask App",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+  "project_short_description": "Template for a python Flask app",
+  "version": "0.1.0dev",
+  "open_source_license": ["MIT license", "BSD license", "ISC license", "Apache Software License 2.0", "GNU General Public License v3", "Not open source"]
+}
